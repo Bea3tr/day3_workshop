@@ -48,8 +48,5 @@ public class IOMain {
 
         // After reading, close the stream
         fis.close();
-
-            
-    }
-    
+    }   
 }
